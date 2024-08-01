@@ -1,0 +1,50 @@
+
+body {
+  font-family: 'Times New Roman', Times, serif
+}
+
+h1 {
+  font-size: 250%
+}
+
+a {
+  color: red;
+}
+
+p {
+  color: red;
+}
+
+h1 {
+  margin: 20px; /* Espaço de 20px em todos os lados */
+  margin-top: 30px; /* Espaço de 30px na parte superior */
+  margin-right: 10px; /* Espaço de 10px à direita */
+  margin-bottom: 20px; /* Espaço de 20px na parte inferior */
+  margin-left: 350px; /* Espaço de 15px à esquerda */
+}
+
+body {
+  background-image: url("imagem/iluvit.jpg");
+  background-position: top;
+  background-size: cover;
+  image-resolution: 1080px;
+}
+
+li {
+  color: red
+}
+
+video {
+  width: 640px;
+  height: 360px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+audio {
+  width: 100;
+}
